@@ -1,4 +1,4 @@
-# Logger
+# unit6/log
 
 A simple [PSR-3 compliant](https://github.com/php-fig/fig-standards/blob/master/accepted/PSR-3-logger-interface.md) logging class for PHP.
 
